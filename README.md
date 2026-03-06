@@ -5,7 +5,7 @@ This is a simple HTML file for company gala lucky draw with has 1st, 2nd and 3rd
 A stylish browser-based lucky draw system designed for events, company parties, and gala dinners.
 
 Live Demo  
-https://AFYQ99.github.io/gala-lucky-draw/
+ https://afyq99.github.io/Simple-Gala-Lucky-Draw/
 
 ---
 

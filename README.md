@@ -71,3 +71,4 @@ Steps:
 4. Save
 
 Your demo will appear at:
+https://USERNAME.github.io/gala-lucky-draw/

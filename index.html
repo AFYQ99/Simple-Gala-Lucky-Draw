@@ -26,14 +26,55 @@ canvas#bg{
 }
 
 h1{
-    margin-top:70px;
-    font-size:48px;
-    letter-spacing:4px;
-    background:linear-gradient(90deg,#e8d8a8,#fff1c1,#e8d8a8);
-    -webkit-background-clip:text;
-    color:transparent;
+    <h1 class="title">
+<span>🍷</span>
+<span>G</span>
+<span>a</span>
+<span>l</span>
+<span>a</span>
+&nbsp;
+<span>N</span>
+<span>i</span>
+<span>g</span>
+<span>h</span>
+<span>t</span>
+&nbsp;
+<span>L</span>
+<span>u</span>
+<span>c</span>
+<span>k</span>
+<span>y</span>
+&nbsp;
+<span>D</span>
+<span>r</span>
+<span>a</span>
+<span>w</span>
+</h1>
+}
+.title span{
+display:inline-block;
+opacity:0;
+transform:translateY(30px);
+animation:titleReveal 0.6s forwards;
 }
 
+.title span:nth-child(1){animation-delay:.1s}
+.title span:nth-child(2){animation-delay:.15s}
+.title span:nth-child(3){animation-delay:.2s}
+.title span:nth-child(4){animation-delay:.25s}
+.title span:nth-child(5){animation-delay:.3s}
+.title span:nth-child(6){animation-delay:.35s}
+.title span:nth-child(7){animation-delay:.4s}
+.title span:nth-child(8){animation-delay:.45s}
+.title span:nth-child(9){animation-delay:.5s}
+.title span:nth-child(10){animation-delay:.55s}
+
+@keyframes titleReveal{
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
 #roller{
     margin-top:80px;
     font-size:64px;

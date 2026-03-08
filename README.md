@@ -2,7 +2,7 @@
 This is a simple HTML file for company gala lucky draw with has 1st, 2nd and 3rd prizes with a fixed winner ;)
 # 🍷Simple Gala Night Lucky Draw
 
-A stylish browser-based lucky draw system designed for events, company parties, and gala dinners.
+A stylish browser-based lucky draw system designed for events, company parties and gala dinners.
 
 Live Demo  
  https://AFYQ99.github.io/Simple-Gala-Lucky-Draw/
@@ -28,9 +28,9 @@ Live Demo
 
 ---
 
-## 👥 Participants
+## 👥 Participants(can make your own name list)
 
-James  
+James(hidden winner)  
 John  
 Robert  
 Michael  
